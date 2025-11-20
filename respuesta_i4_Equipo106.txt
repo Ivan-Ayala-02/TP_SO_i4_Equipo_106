@@ -1,3 +1,8 @@
+Alfa: Daguerre Ariel
+Beta: Ayala Ivan (Cuenta secundaria: Apyr02)
+Gamma: Ayala Ivan (Cuenta principal: Ivan-Ayala-02)
+
+
 A- ¿Qué color de fondo tiene su página en el TESTING ?
 B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
 C- ¿Qué color de fondo tiene su página en el MASTER?
