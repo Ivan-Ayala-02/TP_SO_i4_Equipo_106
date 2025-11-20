@@ -8,12 +8,19 @@ B- Desarrollo tiene el color yellow
 C- Master conserva el color yellow como final
 D- Son todos los mismos, quedando en todas las ramas
 
-=========================================================================================
+==============================================================================================
 
- E- ¿Algún integrante tuvo problemas al hacer el push?
- F- ¿Qué problemas surgieron?
- G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
- adoptada?
- H- ¿Qué sucede si cada uno utiliza el push-f?
- I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
- en DESARROLLO ?
+E- ¿Algún integrante tuvo problemas al hacer el push?
+F- ¿Qué problemas surgieron?
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+H- ¿Qué sucede si cada uno utiliza el push-f?
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
+
+E- Si, gamma
+F- Gamma tuvo conflictos al intentar subir los cambios
+G- Se subió a la fuerza, sobrescribiendo el archivo original del repositorio.
+H- Cada uno sobrescribe el archivo original con su version local.
+I- Cada uno debe traer los cambios del remoto con un pull, agrega los datos y los sube 
+para conservar los cambios. Una vez realizado esto, se hace un merge en la rama de desarrollo.
